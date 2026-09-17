@@ -12,7 +12,7 @@ I am a Senior Electronics and Communication Engineering student at Ain Shams Uni
 
 ## 🚀 Featured Projects
 - **Analog Design Automation Tool:** An agentic, Python-based workflow automating the sizing and optimization of complex analog topologies (like the Miller OTA) using Ngspice and Bayesian optimization.
-- **Low-Noise Jitter Attenuator PLL:** My graduation project involving the complete design flow of a narrow-loop-bandwidth PLL in 22nm FD-SOI.
+- **Low-Noise Jitter Attenuator:** My graduation project involving the complete design flow of a narrow-loop-bandwidth PLL in 22nm FD-SOI.
 - **Label-Free Double-Gate TFET Biosensor:** Designed and optimized advanced TFET biosensors using Silvaco TCAD.
 
 ## 📫 Let's Connect!

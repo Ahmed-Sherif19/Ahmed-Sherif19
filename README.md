@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmed Sherif 👋
 
 **Analog / Mixed-Signal IC Design Engineer & EDA Automation Enthusiast**  
-Ex Analog Circuit Simulation QA Intern @ Siemens DISW | GP @ Pearl Semiconductor | Senior Electronics and Communication Systems Engineering Student ASU ’27 | ASU Racing Team | USAID Scholar*
+Ex Analog Circuit Simulation QA Intern @ Siemens DISW | GP @ Pearl Semiconductor | Senior Electronics and Communication Systems Engineering Student ASU ’27 | ASU Racing Team | USAID Scholar
 
 I am a Senior Electronics and Communication Engineering student at Ain Shams University with a strong passion for analog/mixed-signal IC design, physical verification, and EDA automation. I love combining classical circuit design with modern scripting and agentic AI workflows to build efficient, automated EDA solutions.
 
